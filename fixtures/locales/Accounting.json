@@ -1,0 +1,6 @@
+{
+  "serverOnly": "Used by server translator",
+  "legacy": {
+    "oldServerMessage": "Old server message"
+  }
+}
